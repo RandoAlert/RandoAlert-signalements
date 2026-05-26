@@ -7,5 +7,14 @@
     "description": "Arbre couché sur le sentier avant Écouflant",
     "auteur": "Thierry",
     "expire_le": "2026-06-25T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "type": "Balisage manquant",
+    "latitude": 47.49298,
+    "longitude": -0.50617,
+    "description": "Test - Balisage manquant à Écouflant",
+    "auteur": "Thierry",
+    "expire_le": "2026-06-25T00:00:00Z"
   }
 ]
